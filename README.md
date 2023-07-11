@@ -1,1 +1,1 @@
-# CBAM-and-improved-RAGD-module
+# CBAM-and-improved-RAGD-model
